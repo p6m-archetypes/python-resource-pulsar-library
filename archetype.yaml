@@ -1,0 +1,14 @@
+---
+description: "Python Pulsar Messaging — async Pulsar producer module for uv services"
+summary: >
+  Generates a messaging package with a Pulsar producer (pulsar-client).
+  Consumed as a library by Python service archetypes.
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+tags: ["library", "python", "messaging", "pulsar", "pulsar-client"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
